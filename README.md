@@ -126,4 +126,5 @@ ESP32 üzerinde HTTP sunucusu ile mesaj alıp, belirli komutlara göre LED kontr
 - [Adafruit SSD1306 OLED](https://github.com/adafruit/Adafruit_SSD1306)  
 - [OpenRouter API](https://openrouter.ai)
 ---
-[Projeyi YouTube'da izleyin](youtube.com/watch?si=BQ68WK1M3Ewf362x&v=GPe6ZD07h18&feature=youtu.be)
+[Projeyi YouTube'da izleyin](https://www.youtube.com/watch?v=GPe6ZD07h18)
+
