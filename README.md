@@ -108,7 +108,7 @@ ESP32 üzerinde HTTP sunucusu ile mesaj alıp, belirli komutlara göre LED kontr
 
 ## 💡 Geliştirme Fikirleri
 - 🌐 HTML tabanlı web arayüzü eklemek  
-- 🎤 Sesli komutlar ile LED ve cihaz kontrolü  
+- 🎤 ESP32, OpenRouter API üzerinden gelen yapay zeka yanıtlarını OLED yerine veya ek olarak hoparlör modülü ile sesli olarak da okuyabilir.
 - 🖥️ OLED yerine TFT ekran veya sesli çıktı eklemek  
 - 🔒 API güvenliği için HTTPS desteği ve mesaj sınırlandırmaları  
 
