@@ -115,9 +115,9 @@ ESP32 üzerinde HTTP sunucusu ile mesaj alıp, belirli komutlara göre LED kontr
 ---
 
 ## 📂 Kaynak Kodlar
-- [Proje 1 Kodu](code/proje1/main.ino)  
-- [Proje 2 Kodu](code/proje2/main.ino)  
-- [Proje 3 Kodu](code/proje3/main.ino)  
+- [Proje 1 Kodu](code/project1/main.ino)  
+- [Proje 2 Kodu](code/project2/main.ino)  
+- [Proje 3 Kodu](code/project3/main.ino)  
 
 ---
 
