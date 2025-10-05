@@ -122,6 +122,6 @@ ESP32 üzerinde HTTP sunucusu ile mesaj alıp, belirli komutlara göre LED kontr
 ---
 
 ## 📖 Kaynaklar
-- [ESP32 WiFi Documentation]([https://www.espressif.com/en/products/socs/esp32/resources](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html))  
+- [ESP32 WiFi Documentation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/network/esp_wifi.html))  
 - [Adafruit SSD1306 OLED](https://github.com/adafruit/Adafruit_SSD1306)  
 - [OpenRouter API](https://openrouter.ai)
